@@ -5,8 +5,17 @@ title: Sean Mahoney
 tagline: Software Developer
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: Learn more
   ctaLink: /about
 ---
+# Sean Mahoney
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Software Developer
+
+Hi there! 👋
+
+I am a software engineer specializing in front-end, ecommerce, and adobe experience manager. Working as a senior developer with [Lighthouse Creative](https://lhchq.com/).
+
+###### 📍 New York, NY ␥ 📍 Saint Petersburg, FL
+
+[](http://localhost:8000/about)
